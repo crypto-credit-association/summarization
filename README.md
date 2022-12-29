@@ -3,7 +3,7 @@ Summarize our talks using GPT's davinci language model.
 
 ## Setup
 
-* Create a virtual environment (e.g., ```python3 -v venv venv```)
+* Create a virtual environment (e.g., ```python3 -m venv venv```)
 * Start the the virtual environment (e.g., ```source venv/bin/activate```)
 * ```pip install openai```
 * Create an OpenAI account if you don't already have one: https://openai.com/api/
